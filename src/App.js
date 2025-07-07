@@ -32,7 +32,7 @@ function App() {
           <h1 className="text-5xl md:text-6xl font-bold mb-4">Hi, I'm Ankit  👋</h1>
           <p className="text-xl text-gray-600 mb-6">B.Tech IT | Web Developer | AI Enthusiast</p>
           <a
-            href="/Ankit_Resume.pdf"
+            href="/ANKIT-RESUME.pdf"
             className="bg-indigo-600 text-white px-6 py-3 rounded-full text-lg font-medium hover:bg-indigo-700 transition"
             download
           >
@@ -49,7 +49,7 @@ function App() {
             className="w-32 h-32 rounded-full mx-auto mb-4 shadow-lg object-cover"
           />
           <p className="max-w-2xl mx-auto text-lg text-gray-700 leading-relaxed">
-            I'm Ankit Kumar, a passionate web developer currently pursuing my B.Tech in Information Technology from Bhagwan Parshuram Institute of Technology.
+            I'm Ankit, a passionate web developer currently pursuing my B.Tech in Information Technology from Bhagwan Parshuram Institute of Technology.
             I love designing creative and functional web apps using modern tools like React and Tailwind CSS.
             I'm especially excited about building AI-integrated features to solve real-world problems.
           </p>
@@ -186,7 +186,7 @@ function App() {
      <footer className="bg-white text-center py-6 border-t border-gray-200">
   <div className="flex flex-col gap-2 items-center">
     <p className="text-sm text-gray-500">
-      © {new Date().getFullYear()} Ankit Kumar — Built with ❤️ in Delhi, India 🇮🇳
+      © {new Date().getFullYear()} Ankit — Built with ❤️ in Delhi, India 🇮🇳
     </p>
     <div className="flex gap-5 mt-2">
       <a
