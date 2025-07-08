@@ -129,7 +129,7 @@ function App() {
               </p>
               <div className="flex justify-center gap-4">
                 <a
-                  href="https://your-live-link.com"
+                  href="https://a-iresume-analyzer.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white bg-indigo-600 px-4 py-2 rounded-full text-sm hover:bg-indigo-700 transition"
