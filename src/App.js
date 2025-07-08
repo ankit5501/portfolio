@@ -137,7 +137,7 @@ function App() {
                   Live Demo
                 </a>
                 <a
-                  href="https://github.com/yourgithub/resume-analyzer"
+                  href="https://github.com/ankit5501/AIresume-analyzer"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-indigo-600 border border-indigo-600 px-4 py-2 rounded-full text-sm hover:bg-indigo-50 transition"
